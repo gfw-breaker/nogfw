@@ -9,3 +9,6 @@
 <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/iPPOTV.zip?raw=true" targe="_blank">爱博电视PC版</a> &nbsp; 
 <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/iNTD_TV.apk?raw=true" targe="_blank">新唐人电视安卓版</a>
 
+[自由浏览](https://github.com/greatfire/x/raw/master/FreeBrowser.apk) 无需翻墙，畅快浏览谷歌、推特、脸书。扫码下载：
+
+![自由浏览](https://github.com/greatfire/xx/raw/master/FreeBrowser.apk.png)
